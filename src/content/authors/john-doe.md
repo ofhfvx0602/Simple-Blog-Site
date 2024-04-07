@@ -1,20 +1,20 @@
 ---
-title: John Doe
+title: Goblin
 email: johndoe@email.com
-image: "/images/avatar.png"
+image: "/images/gobgob.jpg"
 description: this is meta description
 social:
   - name: github
     icon: FaGithub
-    link: https://github.com
+    link: https://github.com/ofhfvx0602
 
-  - name: twitter
-    icon: FaTwitter
-    link: https://twitter.com
+  - name: x
+    icon: FaX
+    link: https://twitter.com/P1_xE1
 
-  - name: linkedin
-    icon: FaLinkedin
-    link: https://linkedin.com
+  - name: wordpress
+    icon: FaWordpress
+    link: https://wtfgoblin.com/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+I like to develop web applications. I have recently started doing competitive programming.

@@ -55,7 +55,7 @@ const { banner, features }: Homepage = homepage.data;
             <div class="col-12">
               <ImageMod
                 src={banner.image}
-                height={380}
+                height={400}
                 width={1200}
                 alt="banner"
                 format="webp"
@@ -69,7 +69,7 @@ const { banner, features }: Homepage = homepage.data;
   <!-- /Banner -->
 
   <!-- Features -->
-  {
+  <!-- {
     features.map((feature, index: number) => (
       <section class={`section-sm ${index % 2 === 0 && "bg-gradient"}`}>
         <div class="container">
@@ -88,7 +88,7 @@ const { banner, features }: Homepage = homepage.data;
             <div class={`md:col-7 lg:col-6 ${index % 2 !== 0 && "md:order-1"}`}>
               <h2 set:html={markdownify(feature.title)} class="mb-4" />
               <p set:html={markdownify(feature.content)} class="mb-8 text-lg" />
-              <ul>
+                <ul>
                 {feature.bulletpoints.map((bullet: string) => (
                   <li class="relative mb-4 pl-6">
                     <FaCheck className={"absolute left-0 top-1.5"} />
@@ -106,7 +106,7 @@ const { banner, features }: Homepage = homepage.data;
         </div>
       </section>
     ))
-  }
+  } -->
   <!-- /Features -->
 
   <Testimonial testimonial={testimonial} />

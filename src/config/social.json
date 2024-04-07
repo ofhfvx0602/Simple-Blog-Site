@@ -1,24 +1,19 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
-    },
-    {
-      "name": "twitter",
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/"
-    },
-    {
       "name": "github",
       "icon": "FaGithub",
-      "link": "https://www.github.com/"
+      "link": "https://github.com/ofhfvx0602"
     },
     {
-      "name": "linkedin",
-      "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "x",
+      "icon": "FaX",
+      "link": "https://twitter.com/P1_xE1"
+    },
+    {
+      "name": "wordpress",
+      "icon": "FaWordpress",
+      "link": "https://wtfgoblin.com/"
     }
   ]
 }
